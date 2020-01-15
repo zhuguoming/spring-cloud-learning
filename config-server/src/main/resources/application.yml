@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: ×ÔĞĞÅäÖÃ
+server:
+  port: 9101
